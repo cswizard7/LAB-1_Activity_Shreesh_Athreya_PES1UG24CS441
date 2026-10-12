@@ -1,0 +1,10 @@
+Lab 4 — VibeCoding: Minesweeper
+
+Full ChatGPT conversation link:
+https://chatgpt.com/share/6acc7387-c810-83ec-a017-617482234f2f
+
+Focused conversation extract:
+Lab4_VibeCoding_Chat_Extract.pdf
+
+GitHub repository:
+https://github.com/cswizard7/13_minesweeper
